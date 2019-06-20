@@ -1,3 +1,6 @@
+// Electron asar.unpacked fix
+require ('hazardous');
+
 var fs = require('fs')
 var path = require('path')
 var childProcess = require('child_process')
